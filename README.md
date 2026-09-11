@@ -54,6 +54,7 @@ Tracking injection days, medication levels, rotation sites, side effects, and ti
   - **Apple Watch & Lock Screen:** Live countdown widget, Control Center shortcuts, and Dynamic Island activities.
 - **Haftra+ Clinical Suite:**
   - **Pharmacokinetic Plasma Level Curve:** Mathematical modeling of cumulative active medication based on elimination half-life (~5 days for tirzepatide, ~7 days for semaglutide).
+  - **Haftra AI Meal Scan:** Recognises the food in a photo of your plate and estimates protein and calories; you pick the portion and correct the numbers before saving. The photo goes to Google Gemini only for the estimate and is not stored. Sets no calorie targets. [TR](https://haftra.app/#haftra-ai) | [EN](https://haftra.app/en/#haftra-ai) | [UK](https://haftra.app/uk/#haftra-ai) | [DE](https://haftra.app/de/#haftra-ai) | [AR](https://haftra.app/ar/#haftra-ai)
   - **One-Page Doctor Summary (PDF):** Summarises doses, symptoms and weight trend for appointments. Contains no diagnosis or dose advice.
   - **Phase 3 Trial Benchmarking:** Overlays individual weight loss curves onto SURMOUNT and STEP trial averages.
   - **Symptom Clustering Analysis:** Pinpoints which cycle days side effects peak.
