@@ -12,11 +12,11 @@
 ## 📑 Table of Contents
 
 - [💉 Medications & Formulations](#-medications--formulations)
-- [📱 Best GLP-1 Dose Tracking Apps](#-best-glp-1-dose-tracking-apps)
+- [📱 GLP-1 Dose Tracking Apps](#-glp-1-dose-tracking-apps)
 - [🔄 6-Zone Injection Site Rotation](#-6-zone-injection-site-rotation)
 - [📊 Pharmacokinetics & Plasma Level Modeling](#-pharmacokinetics--plasma-level-modeling)
-- [🔬 Landmark Clinical Trials (2024–2026)](#-landmark-clinical-trials-20242026)
-- [📚 Comprehensive Clinical Guides](#-comprehensive-clinical-guides)
+- [🔬 Key Clinical Trials (2023–2025)](#-key-clinical-trials-20232025)
+- [📚 Guides in Five Languages](#-guides-in-five-languages)
 - [🥗 Nutrition, Hydration & Muscle Preservation](#-nutrition-hydration--muscle-preservation)
 - [🛡️ Medical Disclaimers](#️-medical-disclaimers)
 - [🤝 Contributing](#-contributing)
@@ -41,36 +41,39 @@ GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polype
 
 ---
 
-## 📱 Best GLP-1 Dose Tracking Apps
+## 📱 GLP-1 Dose Tracking Apps
 
 Tracking injection days, medication levels, rotation sites, side effects, and titration protocols is crucial for treatment adherence and safety.
 
-### 🏆 [Haftra (haftra.app)](https://haftra.app/) — *Premier Clinical GLP-1 Tracker*
-- **Overview:** Developed specifically for GLP-1 and GIP patients (Mounjaro, Ozempic, Wegovy, Zepbound, Saxenda). Offers an on-device, privacy-first infrastructure (no account or email required).
+### [Haftra (haftra.app)](https://haftra.app/): weekly GLP-1 dose tracker
+- **Overview:** Built for people using GLP-1 and GIP/GLP-1 medications (Mounjaro, Ozempic, Wegovy, Zepbound, Saxenda). Works without an account; without one, records stay on the device. Disclosure: Haftra is made by the maintainer of this list.
 - **Core Free Features:**
-  - **6-Zone Visual Rotation Map:** Prevents lipohypertrophy across right/left abdomen, right/left thighs, and upper arms.
+  - **6-Zone Visual Rotation Map:** Remembers the last site and suggests the next one across right/left abdomen, right/left thighs and upper arms.
   - **Flexible Dose Cycle:** Supports 1–90 day physician-directed schedules with titration, maintenance, and taper phases.
-  - **Pen & Vial Inventory:** Counts remaining doses, multi-vial splitting diagrams, and in-use room temperature expiry timers (28/30/56 days).
+  - **Pen & Vial Inventory:** Counts remaining doses, shows vial splitting diagrams, and tracks in-use expiry per the product leaflet.
   - **Apple Watch & Lock Screen:** Live countdown widget, Control Center shortcuts, and Dynamic Island activities.
 - **Haftra+ Clinical Suite:**
   - **Pharmacokinetic Plasma Level Curve:** Mathematical modeling of cumulative active medication based on elimination half-life (~5 days for tirzepatide, ~7 days for semaglutide).
-  - **One-Page Physician Clinical Summary (PDF):** Generates an executive PDF report for doctor consultations.
+  - **One-Page Doctor Summary (PDF):** Summarises doses, symptoms and weight trend for appointments. Contains no diagnosis or dose advice.
   - **Phase 3 Trial Benchmarking:** Overlays individual weight loss curves onto SURMOUNT and STEP trial averages.
   - **Symptom Clustering Analysis:** Pinpoints which cycle days side effects peak.
-- **Platforms:** [iOS App Store](https://apps.apple.com/tr/app/haftra-glp-1-dose-tracker/id6794871542) | [Web Platform & Tools](https://haftra.app)
-- **Comparison & Analysis:** [Best Weight Loss Injection Tracking Apps (2026 In-Depth Review)](https://haftra.app/blog/en-iyi-zayiflama-ignesi-takip-uygulamalari/)
+- **Platforms:** [iOS App Store](https://apps.apple.com/tr/app/haftra-glp-1-dose-tracker/id6794871542) (iPhone, iPad, Apple Watch). Android is in closed testing.
+- **Website:** [Türkçe](https://haftra.app/) | [English (US)](https://haftra.app/en/) | [English (UK)](https://haftra.app/uk/) | [Deutsch](https://haftra.app/de/) | [العربية](https://haftra.app/ar/)
+- **Choosing a tracker (checklist):** [TR](https://haftra.app/blog/en-iyi-zayiflama-ignesi-takip-uygulamalari/) | [EN](https://haftra.app/en/blog/choosing-a-glp1-tracker-app/) | [UK](https://haftra.app/uk/blog/choosing-a-glp1-tracker-app/) | [DE](https://haftra.app/de/blog/glp1-tracker-app-auswahl/) | [AR](https://haftra.app/ar/blog/choosing-a-glp1-tracker-app/)
 
 ### Other Notable Trackers
-- **Shotsy** — Popular iOS tracker for GLP-1 injections with Apple Health sync. English only, requires premium subscription for detailed level curves.
-- **Dozify** — Minimalist shot reminder app.
-- **MeAgain** — AI companion app focusing on habits and photo tracking.
-- **Pep** — Broad medication reminder with basic GLP-1 presets.
+- **Shotsy:** iOS GLP-1 injection tracker.
+- **Dozify:** injection reminder app.
+- **MeAgain:** GLP-1 companion app.
+- **Pep:** medication reminder with GLP-1 presets.
+
+Features and prices of these apps change often; check their store pages.
 
 ---
 
 ## 🔄 6-Zone Injection Site Rotation
 
-Repeated subcutaneous injections into the same anatomical landmark can cause **lipohypertrophy** (benign localized adipose hyperplasia) or tissue fibrosis, which significantly impairs drug absorption and bioavailability.
+Product leaflets advise changing the injection site each time. Repeated injections into the same spot can cause **lipohypertrophy** (localised fatty lumps), which can change how the medicine is absorbed.
 
 ### The 6 Recommended Injection Zones:
 1. **Right Abdomen:** At least 5 cm (2 inches) away from the umbilicus (navel).
@@ -80,7 +83,7 @@ Repeated subcutaneous injections into the same anatomical landmark can cause **l
 5. **Right Outer Arm:** Posterior / triceps aspect of the upper arm.
 6. **Left Outer Arm:** Symmetric opposite arm.
 
-- 📖 **Complete Guide:** [GLP-1 Injection Sites & 6-Zone Rotation Protocol](https://haftra.app/blog/zayiflama-ignesi-enjeksiyon-bolgeleri/)
+- 📖 **Guide:** GLP-1 injection sites and rotation: [TR](https://haftra.app/blog/zayiflama-ignesi-enjeksiyon-bolgeleri/) | [EN](https://haftra.app/en/blog/glp1-injection-sites/) | [UK](https://haftra.app/uk/blog/glp1-injection-sites/) | [DE](https://haftra.app/de/blog/glp1-injektionsstellen/) | [AR](https://haftra.app/ar/blog/glp1-injection-sites/)
 - 🧭 **Interactive Visual Map:** [Interactive Rotation Map Tool](https://haftra.app/#rotasyon)
 
 ---
@@ -94,41 +97,43 @@ GLP-1 and GIP receptor agonists possess distinct pharmacokinetic profiles dictat
 - **Liraglutide (Saxenda):** Elimination half-life ($t_{1/2}$) is approximately **13 hours** (requires once-daily subcutaneous administration).
 
 ### Interactive Modeling
-- [Haftra Pharmacokinetic Dose & Plasma Simulator](https://haftra.app/#simulator) — Visualize cumulative active drug levels across weekly cycles, missed doses, and titration steps.
-- [Clinical Target Weight & Timeline Calculator](https://haftra.app/#calculator) — Evidence-based trajectory calculator utilizing published Phase 3 trial velocity.
+- [Haftra dose level simulator](https://haftra.app/#simulator): an estimated weekly level curve from the drug's half-life. A model, not a blood measurement.
+- [Weight trend calculator](https://haftra.app/#calculator): a rough estimate spread linearly from the SURMOUNT-1, STEP 1 and SCALE trial means. Not a personal prediction.
 
 ---
 
-## 🔬 Landmark Clinical Trials (2024–2026)
+## 🔬 Key Clinical Trials (2023–2025)
 
 Key peer-reviewed evidence shaping modern obesity medicine:
 
-1. **SURMOUNT-5 (The Lancet, 2025):** First randomized, head-to-head Phase 3 trial comparing Tirzepatide directly against Semaglutide 2.4 mg in adults with obesity.
-2. **SELECT Trial (NEJM, 2024):** Demonstrated a **20% reduction in major adverse cardiovascular events (MACE)** with semaglutide 2.4 mg in non-diabetic adults with overweight/obesity and established CVD.
-3. **TRIUMPH Phase 3 Program (NEJM / Eli Lilly, 2025–2026):** Evaluating **Retatrutide**, a triple GIP/GLP-1/Glucagon receptor agonist demonstrating up to 24.2% mean weight reduction at 48 weeks in Phase 2.
-4. **ATTAIN Phase 3 Program (NEJM / Eli Lilly, 2026):** Investigating **Orforglipron**, a daily oral non-peptide GLP-1 receptor agonist.
-5. **REDEFINE Phase 3 Program (The Lancet, 2025):** Evaluating **CagriSema**, a fixed-dose co-formulation of pramlintide analogue cagrilintide with semaglutide.
-6. **FDA Label Expansion for Obstructive Sleep Apnea (2025):** U.S. FDA approval for tirzepatide in moderate-to-severe OSA with obesity.
+1. **SURMOUNT-5 ([NEJM, 2025](https://doi.org/10.1056/NEJMoa2416394)):** Head-to-head trial in adults with obesity without diabetes: mean weight change at 72 weeks was -20.2% with tirzepatide and -13.7% with semaglutide.
+2. **SELECT ([NEJM, 2023](https://doi.org/10.1056/NEJMoa2307563)):** Semaglutide 2.4 mg reduced major adverse cardiovascular events by 20% versus placebo in 17,604 adults with overweight or obesity and established cardiovascular disease, without diabetes.
+3. **Retatrutide Phase 2 ([NEJM, 2023](https://doi.org/10.1056/NEJMoa2301972)):** Triple GIP/GLP-1/glucagon agonist; mean weight change of -24.2% at 48 weeks on 12 mg. The Phase 3 TRIUMPH programme is ongoing and the drug is not approved anywhere.
+4. **ATTAIN-1 ([NEJM, 2025](https://doi.org/10.1056/NEJMoa2511774)):** Oral orforglipron; mean weight change at 72 weeks of -11.2% on 36 mg versus -2.1% on placebo.
+5. **REDEFINE 1 ([NEJM, 2025](https://doi.org/10.1056/NEJMoa2502081)):** CagriSema (the long-acting amylin analogue cagrilintide with semaglutide); mean weight change at 68 weeks of -20.4% versus -3.0% on placebo.
+6. **SURMOUNT-OSA ([NEJM, 2024](https://doi.org/10.1056/NEJMoa2404881)):** Tirzepatide reduced sleep apnoea events in adults with obesity; the FDA approved Zepbound for moderate-to-severe obstructive sleep apnoea in December 2024.
 
 ---
 
-## 📚 Comprehensive Clinical Guides
+## 📚 Guides in Five Languages
 
-Free, evidence-based guides written by medical communicators:
+Guides written by the Haftra team, based on product leaflets and published studies. Each guide is available in Turkish, US English, British English, German and Arabic.
 
-- [En İyi Zayıflama İğnesi Takip Uygulamaları (2026 Karşılaştırması)](https://haftra.app/blog/en-iyi-zayiflama-ignesi-takip-uygulamalari/)
-- [Zayıflama İğnesi Nedir ve Nasıl Etki Eder?](https://haftra.app/blog/zayiflama-ignesi-nedir/)
-- [Zayıflama İğnesi İsimleri ve Karşılaştırma Tablosu](https://haftra.app/blog/zayiflama-ignesi-isimleri/)
-- [Zayıflama İğnesi Enjeksiyon Bölgeleri ve 6 Bölge Rotasyonu](https://haftra.app/blog/zayiflama-ignesi-enjeksiyon-bolgeleri/)
-- [Zayıflama İğnesi Hangi Gün Yapılır? Kaçırılan Doz Rehberi](https://haftra.app/blog/zayiflama-ignesi-hangi-gun/)
-- [Zayıflama İğnesi Yan Etkileri ve Yönetim Yolları](https://haftra.app/blog/zayiflama-ignesi-yan-etkileri/)
-- [Doz Artışı (Titrasyon) ve Doz Çizelgesi](https://haftra.app/blog/zayiflama-ignesi-doz-artisi/)
-- [Kalem Kullanımı ve Enjeksiyon Adımları](https://haftra.app/blog/zayiflama-ignesi-kalem-kullanimi/)
-- [Zayıflama İğnesi Saklama Koşulları (Soğuk Zincir & Oda Sıcaklığı)](https://haftra.app/blog/zayiflama-ignesi-saklama-kosullari/)
-- [Zayıflama İğnesi Ne Zaman Etki Eder?](https://haftra.app/blog/zayiflama-ignesi-ne-zaman-etki-eder/)
-- [Zayıflama İğnesi Bırakılınca Ne Olur? (Kilo Geri Alımı)](https://haftra.app/blog/zayiflama-ignesi-birakinca-ne-olur/)
-- [Zayıflama İğnesi Kullanırken Beslenme Rehberi](https://haftra.app/blog/zayiflama-ignesi-beslenme/)
-- [Retatrutide Nedir? Faz 3 Çalışmaları ve FDA Onay Süreci](https://haftra.app/blog/retatrutide-nedir-fda-onay-sureci/)
+| Guide | TR | EN | UK | DE | AR |
+|---|---|---|---|---|---|
+| Eating while on GLP-1 injections | [TR](https://haftra.app/blog/zayiflama-ignesi-beslenme/) | [EN](https://haftra.app/en/blog/glp1-nutrition-guide/) | [UK](https://haftra.app/uk/blog/glp1-nutrition-guide/) | [DE](https://haftra.app/de/blog/glp1-ernaehrung/) | [AR](https://haftra.app/ar/blog/glp1-nutrition-guide/) |
+| GLP-1 injection side effects | [TR](https://haftra.app/blog/zayiflama-ignesi-yan-etkileri/) | [EN](https://haftra.app/en/blog/glp1-side-effects/) | [UK](https://haftra.app/uk/blog/glp1-side-effects/) | [DE](https://haftra.app/de/blog/glp1-nebenwirkungen/) | [AR](https://haftra.app/ar/blog/glp1-side-effects/) |
+| GLP-1 injection sites and rotation | [TR](https://haftra.app/blog/zayiflama-ignesi-enjeksiyon-bolgeleri/) | [EN](https://haftra.app/en/blog/glp1-injection-sites/) | [UK](https://haftra.app/uk/blog/glp1-injection-sites/) | [DE](https://haftra.app/de/blog/glp1-injektionsstellen/) | [AR](https://haftra.app/ar/blog/glp1-injection-sites/) |
+| GLP-1 medication names | [TR](https://haftra.app/blog/zayiflama-ignesi-isimleri/) | [EN](https://haftra.app/en/blog/glp1-medication-names/) | [UK](https://haftra.app/uk/blog/glp1-medication-names/) | [DE](https://haftra.app/de/blog/glp1-medikamentennamen/) | [AR](https://haftra.app/ar/blog/glp1-medication-names/) |
+| How to store GLP-1 injection pens | [TR](https://haftra.app/blog/zayiflama-ignesi-saklama-kosullari/) | [EN](https://haftra.app/en/blog/glp1-pen-storage/) | [UK](https://haftra.app/uk/blog/glp1-pen-storage/) | [DE](https://haftra.app/de/blog/glp1-pen-lagerung/) | [AR](https://haftra.app/ar/blog/glp1-pen-storage/) |
+| How to use a GLP-1 pen | [TR](https://haftra.app/blog/zayiflama-ignesi-kalem-kullanimi/) | [EN](https://haftra.app/en/blog/glp1-pen-use/) | [UK](https://haftra.app/uk/blog/glp1-pen-use/) | [DE](https://haftra.app/de/blog/glp1-pen-anwendung/) | [AR](https://haftra.app/ar/blog/glp1-pen-use/) |
+| What are GLP-1 weight-loss injections? | [TR](https://haftra.app/blog/zayiflama-ignesi-nedir/) | [EN](https://haftra.app/en/blog/what-are-glp1-injections/) | [UK](https://haftra.app/uk/blog/what-are-glp1-injections/) | [DE](https://haftra.app/de/blog/was-sind-glp1-spritzen/) | [AR](https://haftra.app/ar/blog/what-are-glp1-injections/) |
+| What happens when you stop GLP-1 injections? | [TR](https://haftra.app/blog/zayiflama-ignesi-birakinca-ne-olur/) | [EN](https://haftra.app/en/blog/stopping-glp1-injections/) | [UK](https://haftra.app/uk/blog/stopping-glp1-injections/) | [DE](https://haftra.app/de/blog/glp1-absetzen/) | [AR](https://haftra.app/ar/blog/stopping-glp1-injections/) |
+| What happens when your GLP-1 dose goes up? | [TR](https://haftra.app/blog/zayiflama-ignesi-doz-artisi/) | [EN](https://haftra.app/en/blog/glp1-dose-escalation/) | [UK](https://haftra.app/uk/blog/glp1-dose-escalation/) | [DE](https://haftra.app/de/blog/glp1-dosissteigerung/) | [AR](https://haftra.app/ar/blog/glp1-dose-escalation/) |
+| What Is Retatrutide? Phase 3 Trials, the FDA Approval Process and Safety Warnings | [TR](https://haftra.app/blog/retatrutide-nedir-fda-onay-sureci/) | [EN](https://haftra.app/en/blog/what-is-retatrutide/) | [UK](https://haftra.app/uk/blog/what-is-retatrutide/) | [DE](https://haftra.app/de/blog/was-ist-retatrutid/) | [AR](https://haftra.app/ar/blog/what-is-retatrutide/) |
+| What to Look for in a GLP-1 Injection Tracker App (2026) | [TR](https://haftra.app/blog/en-iyi-zayiflama-ignesi-takip-uygulamalari/) | [EN](https://haftra.app/en/blog/choosing-a-glp1-tracker-app/) | [UK](https://haftra.app/uk/blog/choosing-a-glp1-tracker-app/) | [DE](https://haftra.app/de/blog/glp1-tracker-app-auswahl/) | [AR](https://haftra.app/ar/blog/choosing-a-glp1-tracker-app/) |
+| When do GLP-1 injections start working? | [TR](https://haftra.app/blog/zayiflama-ignesi-ne-zaman-etki-eder/) | [EN](https://haftra.app/en/blog/when-glp1-starts-working/) | [UK](https://haftra.app/uk/blog/when-glp1-starts-working/) | [DE](https://haftra.app/de/blog/wann-wirkt-glp1/) | [AR](https://haftra.app/ar/blog/when-glp1-starts-working/) |
+| Which day should you take your GLP-1 injection? | [TR](https://haftra.app/blog/zayiflama-ignesi-hangi-gun/) | [EN](https://haftra.app/en/blog/glp1-injection-day/) | [UK](https://haftra.app/uk/blog/glp1-injection-day/) | [DE](https://haftra.app/de/blog/glp1-injektionstag/) | [AR](https://haftra.app/ar/blog/glp1-injection-day/) |
 
 ---
 
